@@ -1,0 +1,138 @@
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.beat_shift_register_tb
+# vsim -gui work.beat_shift_register_tb 
+# Start time: 20:06:24 on Sep 27,2025
+# Loading sv_std.std
+# Loading work.pp_package
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+# ** Error: (vsim-3063) Port 'read_data' not found in the connected module (4th connection).
+#    Time: 0 ns  Iteration: 0  Instance: /beat_shift_register_tb/dut File: C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv Line: 19
+# Error loading design
+# End time: 20:06:25 on Sep 27,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.beat_shift_register_tb
+# vsim -gui work.beat_shift_register_tb 
+# Start time: 20:08:47 on Sep 27,2025
+# Loading sv_std.std
+# Loading work.pp_package
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+add wave -position insertpoint sim:/beat_shift_register_tb/*
+run -all
+# ** Note: $stop    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv(48)
+#    Time: 65 ns  Iteration: 1  Instance: /beat_shift_register_tb
+# Break in Module beat_shift_register_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv line 48
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv(50)
+#    Time: 85 ns  Iteration: 1  Instance: /beat_shift_register_tb
+# Break in Module beat_shift_register_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv line 50
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv(50)
+#    Time: 85 ns  Iteration: 1  Instance: /beat_shift_register_tb
+# Break in Module beat_shift_register_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv line 50
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv(52)
+#    Time: 105 ns  Iteration: 1  Instance: /beat_shift_register_tb
+# Break in Module beat_shift_register_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv line 52
+# Compile of beat_shift_register.sv failed with 1 errors.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of beat_shift_register.sv failed with 1 errors.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv(53)
+#    Time: 115 ns  Iteration: 1  Instance: /beat_shift_register_tb
+# Break in Module beat_shift_register_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv line 53
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv(53)
+#    Time: 115 ns  Iteration: 1  Instance: /beat_shift_register_tb
+# Break in Module beat_shift_register_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv line 53
+# Compile of beat_shift_register.sv was successful.
+# Compile of beat_shift_register_tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.beat_shift_register_tb_sv_unit
+# Loading work.beat_shift_register_tb
+# Loading work.beat_shift_register_sv_unit
+# Loading work.beat_shift_register
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv(53)
+#    Time: 115 ns  Iteration: 1  Instance: /beat_shift_register_tb
+# Break in Module beat_shift_register_tb at C:/Users/Neha Nauman Khan/OneDrive/Desktop/MODELSIM PROJECTS/PACKET_PARSER/beat_shift_register_tb.sv line 53
+# End time: 22:07:13 on Sep 27,2025, Elapsed time: 1:58:26
+# Errors: 0, Warnings: 1
